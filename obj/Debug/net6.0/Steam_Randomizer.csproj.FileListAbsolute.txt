@@ -1,0 +1,17 @@
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\Steam_Randomizer.csproj.AssemblyReference.cache
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\Steam_Randomizer.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\Steam_Randomizer.AssemblyInfoInputs.cache
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\Steam_Randomizer.AssemblyInfo.cs
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\Steam_Randomizer.csproj.CoreCompileInputs.cache
+G:\C# Scripts\Steam_Randomizer\bin\Debug\net6.0\Steam_Randomizer.exe
+G:\C# Scripts\Steam_Randomizer\bin\Debug\net6.0\Steam_Randomizer.deps.json
+G:\C# Scripts\Steam_Randomizer\bin\Debug\net6.0\Steam_Randomizer.runtimeconfig.json
+G:\C# Scripts\Steam_Randomizer\bin\Debug\net6.0\Steam_Randomizer.dll
+G:\C# Scripts\Steam_Randomizer\bin\Debug\net6.0\Steam_Randomizer.pdb
+G:\C# Scripts\Steam_Randomizer\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\Steam_Randomizer.csproj.CopyComplete
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\Steam_Randomizer.dll
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\refint\Steam_Randomizer.dll
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\Steam_Randomizer.pdb
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\Steam_Randomizer.genruntimeconfig.cache
+G:\C# Scripts\Steam_Randomizer\obj\Debug\net6.0\ref\Steam_Randomizer.dll
